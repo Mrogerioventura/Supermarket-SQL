@@ -1,3 +1,3 @@
 # Supermarket-SQL
-Comandos em SQL para buscar insights no Banco de Dados Supermarket Sales
+SQL commands to search for insights in the Supermercado Sales Database.
 https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
